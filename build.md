@@ -5,8 +5,9 @@ Music (arm64-v8a): 8.05.51
 Music (arm-v7a): 8.05.51  
 Music-Extended (arm64-v8a): 8.05.51  
 Music-Extended (arm-v7a): 8.05.51  
-Spotify: 9.0.54.74  
-Spotify-Extended: 9.0.54.74  
+SoundCloud: 2025.05.29-release  
+Spotify: 9.0.56.106  
+Spotify-Extended: 9.0.56.106  
 YouTube: 20.12.46  
 YouTube-Extended: 19.47.53  
 

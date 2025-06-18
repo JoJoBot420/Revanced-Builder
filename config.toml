@@ -69,7 +69,7 @@ build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
 [Twitch]
-enabled = false
+enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/twitch-interactive-inc/twitch/"
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
@@ -83,7 +83,7 @@ dpi = "120-640dpi"
 
 [TikTok]
 enabled = true
-# archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 included-patches = "'SIM spoof'"
 
 [Messenger]

@@ -1,6 +1,6 @@
-GooglePhotos (arm64-v8a): 7.33.0.769298726  
-GooglePhotos (arm-v7a): 7.33.0.769298726  
-Duolingo: 6.35.2  
+GooglePhotos (arm-v7a): 7.34.0.772224975  
+GooglePhotos (arm64-v8a): 7.34.0.772224975  
+Duolingo: 6.34.3  
 IconPackStudio: 2.2 build 016  
 Music (arm64-v8a): 8.05.51  
 Music-Extended (arm64-v8a): 8.05.51  

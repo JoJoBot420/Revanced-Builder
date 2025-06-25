@@ -1,6 +1,6 @@
+GooglePhotos (arm64-v8a): 7.35.0.774533729  
 Facebook: 490.0.0.63.82  
-GooglePhotos (arm64-v8a): 7.34.0.773090893  
-GooglePhotos (arm-v7a): 7.34.0.773090893  
+GooglePhotos (arm-v7a): 7.35.0.774533729  
 IconPackStudio: 2.2 build 016  
 Music (arm64-v8a): 8.05.51  
 Music-Extended (arm64-v8a): 8.05.51  
@@ -9,9 +9,8 @@ Music-Extended (arm-v7a): 8.05.51
 SoundCloud: 2025.06.20-release  
 Spotify: 9.0.56.106  
 Spotify-Extended: 9.0.56.106  
-Twitch: 24.9.0  
+Twitch: 25.0.1  
 YouTube: 20.12.46  
-YouTube-Extended: 19.47.53  
 TikTok: 36.5.4  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  

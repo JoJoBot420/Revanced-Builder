@@ -1,15 +1,14 @@
-GooglePhotos (arm64-v8a): 7.37.0.782944147  
 Facebook: 490.0.0.63.82  
-Duolingo: 6.38.5  
-GooglePhotos (arm-v7a): 7.37.0.782944147  
 IconPackStudio: 2.2 build 016  
 Music (arm64-v8a): 8.05.51  
 Music (arm-v7a): 8.05.51  
+Music-Extended (arm64-v8a): 8.12.53  
+Music-Extended (arm-v7a): 8.12.53  
 SoundCloud: 2025.05.27-release  
-TikTok: 36.5.4  
-Spotify: 9.0.64.106  
-Spotify-Extended: 9.0.64.106  
+Spotify: 9.0.64.586  
+Spotify-Extended: 9.0.64.586  
 YouTube: 20.13.41  
+TikTok: 36.5.4  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
 Use [zygisk-detach](https://github.com/j-hc/zygisk-detach) to detach root ReVanced YouTube and YT Music from Play Store  

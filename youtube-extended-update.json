@@ -1,6 +1,6 @@
 {
-  "version": "v20.05.46 (patches: 3.14.0)",
-  "versionCode": 38,
-  "zipUrl": "https://github.com/JoJoBot420/Revanced-Builder/releases/download/38/youtube-revanced-extended-magisk-v20.05.46-all.zip",
+  "version": "v20.05.46 (patches 5.12.1)",
+  "versionCode": 41,
+  "zipUrl": "https://github.com/JoJoBot420/Revanced-Builder/releases/download/41/youtube-revanced-extended-magisk-v20.05.46-all.zip",
   "changelog": "https://raw.githubusercontent.com/JoJoBot420/Revanced-Builder/update/build.md"
 }

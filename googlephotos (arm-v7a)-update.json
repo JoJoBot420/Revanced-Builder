@@ -1,6 +1,6 @@
 {
-  "version": "v7.49.0.816946145 (patches: 5.43.1)",
-  "versionCode": 40,
-  "zipUrl": "https://github.com/JoJoBot420/Revanced-Builder/releases/download/40/googlephotos-revanced-magisk-v7.49.0.816946145-arm-v7a.zip",
+  "version": "v7.51.0.822217012 (patches 5.44.0)",
+  "versionCode": 41,
+  "zipUrl": "https://github.com/JoJoBot420/Revanced-Builder/releases/download/41/googlephotos-revanced-magisk-v7.51.0.822217012-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/JoJoBot420/Revanced-Builder/update/build.md"
 }

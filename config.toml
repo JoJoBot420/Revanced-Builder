@@ -94,28 +94,6 @@ enabled = true
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 included-patches = "'SIM spoof'"
 
-[Facebook]
-enabled = true
-apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
-uptodown-dlurl = "https://facebook.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.facebook.katana"
-arch = "arm64-v8a"
-
-[Messenger]
-enabled = true
-apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
-uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.facebook.orca"
-arch = "arm64-v8a"
-
-[Instagram]
-apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
-uptodown-dlurl = "https://instagram.en.T.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.instagram.android"
-included-patches = "'Hide ads' 'Sanitize sharing links' 'Disable signature check'"
-arch = "arm64-v8a"
-exclusive-patches = true
-
 [IconPackStudio]
 enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
@@ -124,3 +102,28 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-s
 enabled = true
 apkmirror-dlurl = "https://www.apkmirror.com/apk/duolingo/duolingo-duolingo/"
 uptodown-dlurl = "https://duolingo.en.uptodown.com/android"
+
+#Meta Apps
+
+[Facebook]
+enabled = false
+apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/facebook/"
+uptodown-dlurl = "https://facebook.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.facebook.katana"
+arch = "arm64-v8a"
+
+[Messenger]
+enabled = false
+apkmirror-dlurl = "https://www.apkmirror.com/apk/facebook-2/messenger/"
+uptodown-dlurl = "https://facebook-messenger.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.facebook.orca"
+arch = "arm64-v8a"
+
+[Instagram]
+enabled = false
+apkmirror-dlurl = "https://apkmirror.com/apk/instagram/instagram-instagram/"
+uptodown-dlurl = "https://instagram.en.T.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.instagram.android"
+included-patches = "'Hide ads' 'Sanitize sharing links' 'Disable signature check'"
+arch = "arm64-v8a"
+exclusive-patches = true

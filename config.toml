@@ -6,6 +6,9 @@ parallel-jobs = 3
 
 # you can use rvmm-config-gen to generate a config
 
+[Lightroom]
+apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
+
 [YouTube]
 build-mode = "both"
 version = "auto"

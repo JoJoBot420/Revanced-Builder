@@ -8,8 +8,6 @@ parallel-jobs = 3
 
 [YouTube]
 build-mode = "both"
-excluded-patches = ""
-included-patches = ""
 version = "auto"
 patcher-args = " -e 'GmsCore support' -OpackageNameYouTube='yt.rv.BM' "
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"

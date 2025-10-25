@@ -43,13 +43,13 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcas
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/spotify-ab/spotify-music-podcasts/"
-patches-source = "anddea/revanced-patches"
+patches-source = "inotia00/revanced-patches"
 
 [YouTube-Extended]
 enabled = true
 app-name = "YouTube"
-patches-source = "anddea/revanced-patches"
-cli-source = "anddea/revanced-cli"
+patches-source = "inotia00/revanced-patches"
+cli-source = "inotia00/revanced-cli"
 patcher-args = " -e 'GmsCore support' -OpackageNameYouTube='yt.rvx.BM' "
 rv-brand = "ReVanced Extended"
 build-mode = "both"
@@ -61,8 +61,8 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.y
 [Music-Extended]
 enabled = true
 app-name = "Music"
-patches-source = "anddea/revanced-patches"
-cli-source = "anddea/revanced-cli"
+patches-source = "inotia00/revanced-patches"
+cli-source = "inotia00/revanced-cli"
 patcher-args = " -e 'GmsCore support' -OpackageNameYouTubeMusic='ytm.rvx.BM' "
 rv-brand = "ReVanced Extended"
 build-mode = "both"

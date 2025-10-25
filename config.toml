@@ -8,8 +8,7 @@ parallel-jobs = 3
 
 [Lightroom]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/adobe/lightroom/"
-uptodown-dlurl = "https://adobe-lightroom.en.uptodown.com/android"
-archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.adobe.lrmobile"
+uptodown-dlurl = "https://adobe-lightroom-mobile.en.uptodown.com/android"
 
 [YouTube]
 build-mode = "both"

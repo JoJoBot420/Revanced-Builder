@@ -1,6 +1,6 @@
 {
-  "version": "v8.30.54 (patches 5.14.1)",
-  "versionCode": 50,
-  "zipUrl": "https://github.com/JoJoBot420/Revanced-Builder/releases/download/50/music-revanced-extended-magisk-v8.30.54-arm-v7a.zip",
+  "version": "v8.30.54 (patches 3.15.0)",
+  "versionCode": 51,
+  "zipUrl": "https://github.com/JoJoBot420/Revanced-Builder/releases/download/51/music-revanced-extended-magisk-v8.30.54-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/JoJoBot420/Revanced-Builder/update/build.md"
 }

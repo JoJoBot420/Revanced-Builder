@@ -1,6 +1,6 @@
 {
-  "version": "v8.10.52 (patches 5.47.0)",
-  "versionCode": 51,
-  "zipUrl": "https://github.com/JoJoBot420/Revanced-Builder/releases/download/51/music-revanced-magisk-v8.10.52-arm-v7a.zip",
+  "version": "v8.10.52 (patches 5.48.0.rvp)",
+  "versionCode": 54,
+  "zipUrl": "https://github.com/JoJoBot420/Revanced-Builder/releases/download/54/music-revanced-magisk-v8.10.52-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/JoJoBot420/Revanced-Builder/update/build.md"
 }
